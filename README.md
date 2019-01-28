@@ -1,1 +1,0 @@
-# trello CORS waiting for config 
