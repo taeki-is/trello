@@ -7,5 +7,6 @@ https://taeki-is.github.io/trello/styles/vendor.96921311.css
 
 
 # Use from network if available
-# NETWORK:
+NETWORK:
+*
 
