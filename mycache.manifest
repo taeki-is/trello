@@ -1,9 +1,10 @@
 CACHE MANIFEST
-# v4 2019-02-26
+# v 1.0 2019-03-03
 
-https://taeki-is.github.io/trello/scripts/vendor.75154200.js
-#https://taeki-is.github.io/trello/scripts/scripts.d1d52be6.js
+https://taeki-is.github.io/trello/scripts/vendor.23ccb8f5.js
+https://taeki-is.github.io/trello/scripts/scripts.eb16a71c.js
 https://taeki-is.github.io/trello/styles/vendor.96921311.css
+https://taeki-is.github.io/trello/styles/main.731f8ae1.css
 
 
 # Use from network if available
